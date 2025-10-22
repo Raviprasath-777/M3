@@ -52,7 +52,7 @@ int main() {
 
 ## OUTPUT
 
-![alt text](<../module 3-1.jpg>)
+![Image](https://github.com/user-attachments/assets/8fd97d37-c4da-4e1d-87af-fbd1851fd3cd)
 
 ## RESULT
 
@@ -101,7 +101,7 @@ int main() {
 
 ## OUTPUT
 
-![alt text](<../module 3-2.jpg>)
+![Image](https://github.com/user-attachments/assets/4246dbd1-600c-44d9-9e6c-8d6c75457939)
 
 
 ## RESULT
@@ -150,7 +150,7 @@ int main() {
 ## OUTPUT
 
 
-![alt text](<../module 3-3.jpg>)
+![Image](https://github.com/user-attachments/assets/8eecba27-180f-407c-bd88-b7d7fe2f595f)
 
 
 ## RESULT
@@ -203,7 +203,7 @@ int main() {
 
 ## OUTPUT
 
-![alt text](<../module 3-4.jpg>)
+![Image](https://github.com/user-attachments/assets/e22f6d31-0b80-4713-89f5-175fae71203e)
 
 ## RESULT
 Thus the program to count total number of positive elements in an array has been executed successfully.
@@ -273,7 +273,7 @@ int main() {
 
 ## Output:
  
- ![alt text](<../module 3-5.jpg>)
+![Image](https://github.com/user-attachments/assets/979a09b3-8027-4d6c-9192-7a697dd1b0d6)
 
 ## Result:
 
